@@ -1,0 +1,80 @@
+.basmalah {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: italic;
+	color: #003366;
+	background-position: center;
+	text-align: center;
+
+}
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	font-style: normal;
+	color: #006633;
+	margin-top: 4px;
+	margin-bottom: 6pt;
+
+
+}
+body {
+	font-family: "Book Antiqua", "Times New Roman", Times, Georgia, serif;
+	background-color: FFFFF0;
+
+
+}
+.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #660000;
+	text-align: center;
+	vertical-align: middle;
+}
+.contact {
+	font-family: "Book Antiqua", "Times New Roman", Times, Georgia, serif;
+	font-size: 12px;
+	font-style: normal;
+	text-align: center;
+	vertical-align: middle;
+}
+.linkbar {
+	background-color: #99CCCC;
+}
+.linkbarcell {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #333333;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 12pt;
+
+}
+
+a:hover {
+	color: #003399;
+	background-color: #CCCCCC;
+}
+
+a:link {
+	color: #003399;
+}
+
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-style: normal;
+	font-weight: bold;
+	color: #663333;
+	vertical-align: middle;
+	margin-top: 15px;
+}
+
+.happiness {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #990033;
+	background-position: center;
+	text-align: center;
+	font-weight: bold;
+	background-color: #CCCCCC;
+}
