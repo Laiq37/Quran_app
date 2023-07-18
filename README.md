@@ -14,7 +14,6 @@ Go-To Page: Users can search for any specific verse (ayat) from any Surah (chapt
 Quran Page: This page lists all the Surahs in the Quran. Users can navigate through the Surahs and view the corresponding verses (ayat) within each Surah. The app also provides a search functionality within the Quran page, highlighting matching text in the verses.
 
 <img src="https://github.com/Laiq37/mahsa_chat/assets/51846274/709cc09b-5234-445c-81d1-cb2539d68580" width=250 height=500 >
-<img src="https://github.com/Laiq37/mahsa_chat/assets/51846274/d8ed2d25-8e08-4c9e-a5ec-275a311cf817" width=250 height=500 >
 
 Multiple Language Options: Users have the flexibility to view the verses in three different languages: English, Arabic, and Tamil.
 
