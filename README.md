@@ -4,7 +4,7 @@ The Quran app is a cross-platform mobile application developed using Flutter, de
 Features
 Multi-Language Support: The Quran app supports two languages, English and Tamil, allowing users to read the Quran in their preferred language.
 
-<img src="https://github.com/Laiq37/mahsa_chat/assets/51846274/4b427200-0d29-4ac1-98db-95e91f3f676e" width=100 height=100>
+<img src="https://github.com/Laiq37/mahsa_chat/assets/51846274/4b427200-0d29-4ac1-98db-95e91f3f676e" width=400 height=400 style="display: block; margin: 0 auto;">
 
 Go-To Page: Users can search for any specific verse (ayat) from any Surah (chapter) in the Quran. The selected verse is added to the "Go-To Listing" and saved locally using a SQLite database.
 
