@@ -33,6 +33,6 @@ The app allows users to easily share individual verses or multiple verses outsid
 <img src="https://github.com/Laiq37/mahsa_chat/assets/51846274/7e1233e4-f666-40c8-ba53-0ae74838c323" width=250 height=500 >
 
 # Technologies Used
-## Flutter: The app is developed using the Flutter framework, providing a robust and cross-platform mobile development environment.
-## GetX: The GetX package is used for state management within the app, ensuring efficient and reactive application behavior.
-## SQLite: The app utilizes the Sqflite plugin, which is a SQLite database implementation for Flutter, to store and retrieve the user's saved "Go-To Listing."
+Flutter: The app is developed using the Flutter framework, providing a robust and cross-platform mobile development environment.
+GetX: The GetX package is used for state management within the app, ensuring efficient and reactive application behavior.
+SQLite: The app utilizes the Sqflite plugin, which is a SQLite database implementation for Flutter, to store and retrieve the user's saved "Go-To Listing."
